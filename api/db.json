@@ -1,0 +1,15 @@
+{
+    "todos": [{
+            "id": 1,
+            "title": "Çay yap"
+        },
+        {
+            "id": 2,
+            "title": "Kahve yap"
+        },
+        {
+            "id": 3,
+            "title": "Ayran yap"
+        }
+    ]
+}
